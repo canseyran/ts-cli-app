@@ -11,7 +11,7 @@
     "test": "vitest run",
     "test:watch": "vitest ."
   },
-  "bin": "./src/main.ts",
+  "bin": "./dist/bin.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
